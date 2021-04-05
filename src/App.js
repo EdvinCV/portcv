@@ -19,11 +19,11 @@ function App() {
         <BottomNav />
         <div className="main">
           <Switch>
-            <Route exact path="/" component={Home} />
             <Route exact path="/portcv" component={Home} />
             <Route exact path="/about" component={About} />
             <Route exact path="/skills" component={Skills} />
             <Route exact path="/projects" component={Projects} />
+            <Route component={Home} />
           </Switch>
         </div>
         <div>

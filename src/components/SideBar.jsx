@@ -34,7 +34,7 @@ const SideBar = () => {
             </div>
             <ul className="list-items">
                 <li className="side-item">
-                    <StyledLink to="/">
+                    <StyledLink to="/portcv">
                         <AiOutlineHome size="1.2em" />
                         <span style={{marginLeft: "10px"}}>
                             Home
