@@ -11,9 +11,10 @@ export const dataProjects = [
         {image: "sortingAlgs", title: "Sorting Algorithms", description: "This is a project developed in Vanilla Javascript, basically consists in a graphic representational of the process of the diferents basic sort algorithms.", git: "https://github.com/EdvinCV/SortingAlgorithms", live: "", skills: ["Vanilla Javascript", "HTML", "CSS"],},
 ];
 export const dataSkills = [
-        {image: "js.png", title: "Programming Languages", skills: ["Javascript", "Python", "PHP", "Basis Java", "C#"]},
-        {image: "logo192.png", title: "React.js", skills: ['Class Components', 'Context API', 'State', 'Hooks', 'React Router', 'Redux', 'Redux Thunk', 'Redux Form', 'Material UI', 'Basic React Native', "Unit Testing", "Integration Testing"]},
-        {image: "node.png", title: "Node.js" , skills: ['Express', 'MongoDB', 'Sequelize', 'JWT', 'Middlewares', 'Passport', 'Express Router', 'REST API', 'Socket.io', "Unit Testing", "Integration Testing"]},
-        {image: "cs.png", title: "CSharp - C#", skills: ['ASP.NET Core','MVC', 'Entity Framework', 'LINQ', 'WPF', 'Basic Blazor']},
-        {image: "general.png", title: "General", skills: ['SQL', 'MySQL', 'Git', 'Github', 'UML', 'Deploy Heroku', "SOLID", "Database design", "Stored Procedures", "Transact SQL", "SCRUM", "MongoDB", "CSS", "DJANGO", "DJANGO REST FRAMEWORK", "LARAVEL"]}
+        {image: "js.png", title: "Programming Languages", skills: ["Javascript", "Java", "Python", "PHP", "C#"]},
+        {image: "logo192.png", title: "React.js", skills: ['Class Components', 'Context API', 'State', 'Hooks', 'React Router', 'Redux', 'Redux Thunk', 'Redux Form', 'Material UI', 'React Native', "Unit Testing", "Integration Testing"]},
+        {image: "node.png", title: "Node.js" , skills: ['Express', 'MongoDB', 'Sequelize', 'JWT', 'Middlewares', 'Passport', 'Express Router', 'REST API']},
+        // {image: "java.png", title: "Java", skills: ['Java SE','Java EE', 'JDBC', 'Spring Framework']},
+        {image: "cloud.png", title: "Cloud Computing", skills: ['Still starting to learn . . .','AWS']},
+        {image: "general.png", title: "General", skills: ['SQL', 'MySQL', 'Git', 'Github', 'UML', "SOLID", "Database design", "Stored Procedures", "Transact SQL", "SCRUM", "CSS", "DJANGO", "DJANGO REST FRAMEWORK", "LARAVEL"]}
 ];

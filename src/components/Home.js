@@ -33,14 +33,14 @@ const Home = () => {
                 </div>
                 <div>
                     <p align="justify">
-                        Since I had the opportunity as a child to have my first computer,
+                        Since I had the opportunity to have my first computer,
                         I knew what I was going to do for the rest of my life,
                         this led me to delve into this world and study engineering.
                         I'm currently a computer science and systems engineer 
                         with a passion for everything related to software development.
                         I'm an enthusiastic person, responsible but above all passionate and 
-                        constantly learning in the world of computing.
-                        In the diferents pages you can find about my different skills and knowledge,
+                        an eternal learner in the world of computing.
+                        Along the different pages you can find about my different skills and knowledge
                         and some personal projects.
                     </p>
                 </div>
